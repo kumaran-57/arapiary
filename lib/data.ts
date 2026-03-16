@@ -37,7 +37,7 @@ export interface BeekeepingMaterial {
 export const honeyProducts: HoneyProduct[] = [
   {
     id: "mosquito-honey",
-    name: "Mosquito Honey",
+    name: "Kombu Honey",
     description: "Rare honey variety known for strong medicinal value.",
     price: 1600,
     image: "/images/sidr-honey.jpg",
